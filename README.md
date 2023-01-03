@@ -1,10 +1,1 @@
 # Sloko-App-React-Native-SQLite-Server
-# Sloko-App-React-Native-SQLite-Server
-# Sloko-App-React-Native-SQLite-Server
-# Sloko-App-React-Native-SQLite-Server
-# Sloko-App-React-Native-SQLite-Server
-# Sloko-App-React-Native-SQLite-Server
-# Sloko-App-React-Native-SQLite-Server
-# Sloko-App-React-Native-SQLite-Server
-# Sloko-App-React-Native-SQLite-Server
-# Sloko-App-React-Native-SQLite-Server
